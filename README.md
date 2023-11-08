@@ -7,6 +7,6 @@ The shader is essentially a very barebones version of the [internal Godot shader
 
 Here's quick comparison of the shader and the standard material with various roughness settings, for both metallic and dielectric materials:
 
-![image](https://github.com/RustyRoboticsBV/GodotStandardLightShader/blob/main/TestResults.png?raw=true)
+![image](https://github.com/RustyRoboticsBV/GodotStandardLightShader/blob/master/TestResults.png?raw=true)
 
 Happy shader coding!
