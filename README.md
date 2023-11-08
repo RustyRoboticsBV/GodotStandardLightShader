@@ -6,6 +6,6 @@ To be more specific, it replicates the look of the Godot 4.1.1 standard material
 The shader is essentially a very barebones version of the [internal Godot shader](https://github.com/godotengine/godot/blob/09a2a7c54eae05708894476a8d9a25dae95bbdf7/drivers/gles3/shaders/scene.glsl).
 
 Here's quick comparison of the shader and the standard material with various roughness settings, for both metallic and dielectric materials:
-![image](https://raw.githubusercontent.com/RustyRoboticsBV/GodotStandardLightShader/main/TestResults.png)
+![image](https://github.com/RustyRoboticsBV/GodotStandardLightShader/blob/main/TestResults.png?raw=true)
 
 Happy shader coding!
